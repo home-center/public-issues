@@ -2,6 +2,8 @@
 
 This repository serves as a **public issue tracker** for the `Home Center` application.
 
+[Create an Issue](https://github.com/home-center/public-issues/issues/new/choose)
+
 ## When do I need to create an Issue?
 
 Please **create** an issue if:
