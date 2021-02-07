@@ -25,17 +25,22 @@ However, due to aforementioned consteaints, we kindly ask for your patience.
 
 ## How can I influence the Roadmap?
 
-Basically, first and foremost, the raodmap is driven by personal needs.
+First and foremost, the roadmap is driven by personal needs.
 
-Youc an influence the roadmap by **creating feature requests** and, especially, **upvoting** existing requests!
+You can influence the roadmap by **creating feature requests** and, especially, **upvoting** existing requests!
+
 If **demand** for a feature increases, it will gain **priority** over others.
 
-## Where can I find a Roadmpa?
+## Where can I find a Roadmap?
 
-At the moment, there is **no** roadmap **publicly** available.
+At the moment, there is **no** roadmap available **publicly**.
 
-If you have specific enquires, feel free to use any other channels mentioned [here](https://homecenter.niftyside.io/about).
+Stay tuned for any updates on that.
 
-## Whre can I find further information about the app?
+## What if I have other enquiries?
 
-You can find more information about the app itself at [homecenter.niftyside.io](https://homecenter.niftyside.io).
+If you have other enquiries, feel free to use the channels mentioned [here](https://homecenter.niftyside.io/about).
+
+## Where can I find further information about the app?
+
+You can find more information about the app at [homecenter.niftyside.io](https://homecenter.niftyside.io).
