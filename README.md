@@ -14,7 +14,7 @@ Please **create** an issue if:
 
 ## What if I don't have a GitHub account?
 
-If don't have and/or want to create a GitHub account to create an issue, please feel free to use any of the other contact channels mentioned [here](https://homecenter.niftyside.io/about).
+If don't have and/or want to create a GitHub account to create an issue, please feel free to use any of the other contact channels mentioned [here](https://home-center.io/about).
 
 ## How are Issues dealt with?
 
@@ -39,8 +39,8 @@ Stay tuned for any updates on that.
 
 ## What if I have other enquiries?
 
-If you have other enquiries, feel free to use the channels mentioned [here](https://homecenter.niftyside.io/about).
+If you have other enquiries, feel free to use the channels mentioned [here](https://home-center.io/about).
 
 ## Where can I find further information about the app?
 
-You can find more information about the app at [homecenter.niftyside.io](https://homecenter.niftyside.io).
+You can find more information about the app at [home-center.io](https://home-center.io).
